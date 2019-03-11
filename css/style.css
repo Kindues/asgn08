@@ -1,0 +1,22 @@
+html {
+  background-color: #712066;
+  color: #fff;
+}
+
+a {
+  border: 2px ridge #fff;
+  color: #fff;
+  padding: .5rem;
+}
+
+a:hover {
+  background-color: #000;
+}
+
+header {
+  color: #000;
+}
+
+form {
+  padding: 20px;
+}
